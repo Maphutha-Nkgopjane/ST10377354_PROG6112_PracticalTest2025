@@ -32,7 +32,7 @@ public class Question1 {
 
         // Print Report
         System.out.println("==================================================================");
-        System.out.println("                        BATTING RUNS REPORT                       ");
+        System.out.println("                        BATSMAN RUNS REPORT                       ");
         System.out.println("==================================================================\n");
 
         System.out.printf("%-15s%-18s%-15s%-15s\n", "STADIUM", "JACQUES KALLIS", "HASHIM AMLA", "AB DE VILLIERS");
